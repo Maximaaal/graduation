@@ -1,3 +1,3 @@
 # test
 
-(img1.png)
+![img test](img1.png)
