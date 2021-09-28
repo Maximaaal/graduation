@@ -2,7 +2,7 @@
 
 **Light sensor**
 
-<img src="img/GL5537 LDR-1200x1200w.jpg" alt="GL5537 LDR-1200x1200w" style="zoom: 25%;" />
+<img src="img/GL5537 LDR-1200x1200w.jpg" alt="GL5537 LDR-1200x1200w" style="width: 400px" />
 
 
 
