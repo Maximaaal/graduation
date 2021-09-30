@@ -8,6 +8,12 @@
 
 
 
+## ARTICLES
+
+- [Connected Devices Share More Data Than Needed, Study Says](https://www.consumerreports.org/privacy/connected-devices-share-more-data-than-needed-study-says-a7015033345/)
+
+
+
 ## ARTISTS/PROJECTS
 
 - [ECAL Fantastic Smartphones](https://vimeo.com/592151471)
