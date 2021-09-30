@@ -41,6 +41,13 @@ Home automation is a collective name for a group of technologies within a househ
 - **Visual experimentation**
   - How can I use these sensors to create certain visuals (TouchDesigner, Processing)
 
-- Creating a narrative**
+- **Creating a narrative**
   - What message do I want to convey and how can I do this trough storytelling?
 
+## STEPS
+
+1. **Researching connected user electronics**
+2. **Researching sensors**
+3. **Experimenting with sensors**
+4. **Visual experimentation**
+5. **Creating a narrative**
