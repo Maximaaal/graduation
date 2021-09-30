@@ -27,27 +27,20 @@ Home automation is a collective name for a group of technologies within a househ
 ## **METHODOLOGY**
 
 - **Researching sensors**
-
-Which consumer electronics contain these sensors?
-
-What kind of sensors are being used?
-
-What are the privacy protocols for these sensors?
-
-
+  - Which consumer electronics contain these sensors?
+  - What kind of sensors are being used?
+  - What are the privacy protocols for these sensors?
 
 - **Experimenting with sensors**
+  - What kind of output values do theses sensors have -> how do these sensors react in different environments
 
-What kind of output values do theses sensors have -> how do these sensors react in different environments
-
-
+- **Researching connected user electronics**
+  - What kind of data do these devices collect?
+  - Where does this collected data go?
 
 - **Visual experimentation**
+  - How can I use these sensors to create certain visuals (TouchDesigner, Processing)
 
-How can I use these sensors to create certain visuals (TouchDesigner, Processing)
+- Creating a narrative**
+  - What message do I want to convey and how can I do this trough storytelling?
 
-
-
-- **Creating a narrative**
-
-What message do I want to convey and how can I do this trough storytelling?
