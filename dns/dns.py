@@ -24,6 +24,6 @@ if __name__ == '__main__':
     logfile = open("/var/log/pihole.log","r")
     loglines = follow(logfile)
     # iterate over the generator
-    line = loglines.split()
+    
     for line in loglines:
-        print(line)
+        print(line, end='')
