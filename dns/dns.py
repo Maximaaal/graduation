@@ -25,7 +25,7 @@ if __name__ == '__main__':
     loglines = follow(logfile)
     # iterate over the generator
     
-    lst = list(loglines)
-    print(lst)
-    # for line in loglines:
-    #     print(line, end='')
+    
+    for line in loglines:
+        [int(s) for s in line.split() if s.isdigit()]
+        print(line, end='')
