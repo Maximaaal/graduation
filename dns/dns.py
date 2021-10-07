@@ -36,7 +36,7 @@ if __name__ == '__main__':
     lst=[]
 
     for line in loglines:
-        lst.append(pattern.search(line)[0])
+        lst.append(pattern.search(line)[1])
         print(lst, end='')
 
         
