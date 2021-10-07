@@ -30,13 +30,30 @@ if __name__ == '__main__':
     #     line = line.split(":",1)
     #     print(line, end='')
 
-    pattern = re.compile(r'(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})')
+    pattern =re.compile('''((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.)
+{3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)''')
  
-    # initializing the list object
-    lst=[]
-
-    for line in loglines:
-        lst.append(pattern.search(line)[1])
-        print(lst, end='')
+# initializing the list objects
+valid =[]
+invalid=[]
+ 
+# extracting the IP addresses
+for line in loglines:
+    line = line.rstrip()
+    result = pattern.search(line)
+ 
+    # valid IP addresses
+    if result:
+      valid.append(line)
+ 
+    # invalid IP addresses 
+    else:
+      invalid.append(line)
+ 
+# displaying the IP addresses
+print("Valid IPs")
+print(valid)
+print("Invalid IPs")
+print(invalid)
 
         
