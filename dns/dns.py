@@ -27,5 +27,5 @@ if __name__ == '__main__':
     
     
     for line in loglines:
-        line = [int(s) for s in line.split() if s.isdigit()]
-        print(line, end='')
+        ip = [int(s) for s in line.split() if s.isdigit()]
+        print(ip, end='')
