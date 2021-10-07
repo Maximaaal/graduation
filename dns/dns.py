@@ -1,7 +1,6 @@
 import time
 import os
 
-thefile = '/var/log/pihole.log'
 
 def follow(thefile):
     '''generator function that yields new lines in a file
@@ -22,7 +21,7 @@ def follow(thefile):
 
 if __name__ == '__main__':
     
-    logfile = open("run/foo/access-log","r")
+    logfile = open("/var/log/pihole.log","r")
     loglines = follow(logfile)
     # iterate over the generator
     for line in loglines:
