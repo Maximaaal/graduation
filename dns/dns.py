@@ -1,5 +1,6 @@
 import time
 import os
+import re
 
 
 def follow(thefile):
@@ -25,6 +26,17 @@ if __name__ == '__main__':
     loglines = follow(logfile)
     # iterate over the generator
     
+    # for line in loglines:
+    #     line = line.split(":",1)
+    #     print(line, end='')
+
+    pattern = re.compile(r'(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})')
+ 
+    # initializing the list object
+    lst=[]
+
     for line in loglines:
-        line = line.split(":",1)
-        print(line, end='')
+        lst.append(pattern.search(line)[0])
+        print(lst, end='')
+
+        
