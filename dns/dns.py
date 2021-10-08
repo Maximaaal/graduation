@@ -30,13 +30,33 @@ if __name__ == '__main__':
     #     line = line.split(":",1)
     #     print(line, end='')
 
-    pattern = re.compile(r'(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})')
- 
+    
+     
     # initializing the list object
     lst=[]
-
+    
+    #lst.append(pattern.search(line)[0])
+    #print(lst, end='')
+    
     for line in loglines:
-        lst.append(pattern.search(line)[0])
-        print(lst, end='')
+        pattern = re.findall(r'(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})', line)
+        del pattern[0]
+        print(pattern)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
         
