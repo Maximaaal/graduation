@@ -4,5 +4,7 @@ All connected devices on this network will be tracked and all outgoing data is l
 
 For this example I opened the Amazon app from my iphone.
 
-<video src="https://i.imgur.com/SVBmqFu.mp4"></video>
+https://user-images.githubusercontent.com/61837530/139873160-b7379167-af74-42af-b30f-7eabf3ee6e58.mp4
+
+
 
