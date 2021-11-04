@@ -5,6 +5,7 @@
 - [An Experimental Study of Security and Privacy Risks with Emerging Household Appliances](https://github.com/Maximaaal/graduation/blob/main/docs/resources/An_experimental_study_of_security_and_privacy_risks_with_emerging_household_appliances.pdf) 
 - Radical Technologies: The Design of Everyday Life
 - [James Bridle: New Dark Age](https://jamesbridle.com/works/state-of-sin)
+- [Understanding the Long-Term Use of Smart Speaker Assistants](https://github.com/Maximaaal/graduation/blob/main/docs/resources/3264901.pdf)
 
 
 
