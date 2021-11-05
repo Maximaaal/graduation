@@ -4,7 +4,7 @@
 
 ## **RESEARCH QUESTION**
 
-### **How are inter-connected smart devices influencing our daily rituals?s**
+### **How are inter-connected smart devices influencing our daily rituals?**
 
 Smart devices are becoming more and more integrated in our lives and taking a bigger role in our daily rituals. We are letting big tech companies in our homes as Trojan Horses there to secretly steal our data. All these devices are being connected to the Internet of Things bring new security problems which never existed in the house before. Smart speakers can always listen and cameras will always see what you are doing.
 
