@@ -6,6 +6,7 @@
 - Radical Technologies: The Design of Everyday Life
 - [James Bridle: New Dark Age](https://jamesbridle.com/works/state-of-sin)
 - [Understanding the Long-Term Use of Smart Speaker Assistants](https://github.com/Maximaaal/graduation/blob/main/docs/resources/3264901.pdf)
+- [Cognitive Dissonance in Technology Adoption: A Study of Smart Home Users](https://github.com/Maximaaal/graduation/blob/main/docs/resources/Marikyan2020_Article_CognitiveDissonanceInTechnolog.pdf)
 
 
 
