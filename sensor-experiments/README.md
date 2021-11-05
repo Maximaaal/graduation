@@ -32,7 +32,7 @@ Used to detect people/animals based on their heat radiation (infra-red).
 
 **DHT11 Thermometer Temperature and Humidity Sensor**
 
-<img src="img/DHT11 1-1200x1200.jpg" alt="pir sensor 1-1200x1200w" style="width: 400px" />
+<img src="https://github.com/Maximaaal/graduation/blob/main/sensor-experiments/img/DHT11%201-1200x1200.JPG?raw=true" alt="pir sensor 1-1200x1200w" style="width: 400px" />
 
 Temperature and humidity sensor.
 
