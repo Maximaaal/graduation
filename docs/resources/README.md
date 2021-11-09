@@ -10,11 +10,12 @@
 
 
 
-## ARTICLES
+## ARTICLES/PODCASTS
 
 - [Connected Devices Share More Data Than Needed, Study Says](https://www.consumerreports.org/privacy/connected-devices-share-more-data-than-needed-study-says-a7015033345/)
 - [Rise of the machines: has technology evolved beyond our control? - James Bridle](https://www.theguardian.com/books/2018/jun/15/rise-of-the-machines-has-technology-evolved-beyond-our-control-)
 - [UK homes vulnerable to 'staggering' level of corporate surveillance](https://www.theguardian.com/technology/2018/jun/01/uk-homes-vulnerable-to-staggering-level-of-corporate-surveillance)
+- [THE README PODCAST // S1.5 - Keeping the lights on with Home Assistant](https://github.com/readme/podcast/lights-on-with-home-assistant)
 
 
 
