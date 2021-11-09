@@ -1,13 +1,5 @@
 ## SENSORS OVERVIEW
 
-### Sensors commonly used in smartphones.
-
-
-
-<img src="img/Screenshot 2021-09-30 at 15.41.59.png" alt="Screenshot 2021-09-30 at 15.41.59" style="width: 600px;" />
-
-
-
 
 
 
