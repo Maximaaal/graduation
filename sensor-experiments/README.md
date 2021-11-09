@@ -1,6 +1,6 @@
 ## SENSORS OVERVIEW
 
-
+This is an overview of the sensors wich are going to be used throughout the installation, the sensors will be visible and give direct feedback to user.
 
 
 
