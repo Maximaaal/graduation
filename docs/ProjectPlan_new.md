@@ -4,7 +4,7 @@
 
 ## If This Then What?
 
-<img src="https://github.com/Maximaaal/graduation/blob/main/docs/img/Screenshot%202021-11-03%20at%2012.17.58.png?raw=true" style="zoom:30%;" />
+<img src="https://github.com/Maximaaal/graduation/blob/main/docs/img/Screenshot%202021-11-03%20at%2012.17.58.png?raw=true" style="width: 400px" />
 
 <img src="https://raw.githubusercontent.com/Maximaaal/graduation/main/docs/img/bb78e9db48d2b59e5f2c9e7e674055a7.webp" style="zoom:85%;" />
 
