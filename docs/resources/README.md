@@ -20,6 +20,10 @@
 
 - [Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic](https://arxiv.org/pdf/2105.05162.pdf)
 
+- [Beyond artificial intelligence: exploring artificial wisdom](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AEFF76E8D643E2B7210995E3ABDAA722/S1041610220000927a.pdf/beyond-artificial-intelligence-exploring-artificial-wisdom.pdf)
+
+- [Citizens and netizens: a contemplation on ubiquitous technology](https://link.springer.com/content/pdf/10.1007/s00146-013-0451-5.pdf)
+
   
 
 ## ARTICLES/PODCASTS
