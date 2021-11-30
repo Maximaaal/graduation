@@ -24,6 +24,8 @@
 
 - [Citizens and netizens: a contemplation on ubiquitous technology](https://link.springer.com/content/pdf/10.1007/s00146-013-0451-5.pdf)
 
+- [The Computer for the 21st Century](https://www.ics.uci.edu/~djp3/classes/2012_09_INF241/papers/Weiser-Computer21Century-SciAm.pdf)
+
   
 
 ## ARTICLES/PODCASTS
