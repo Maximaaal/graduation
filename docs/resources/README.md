@@ -35,6 +35,8 @@
 - [UK homes vulnerable to 'staggering' level of corporate surveillance](https://www.theguardian.com/technology/2018/jun/01/uk-homes-vulnerable-to-staggering-level-of-corporate-surveillance)
 - [THE README PODCAST // S1.5 - Keeping the lights on with Home Assistant](https://github.com/readme/podcast/lights-on-with-home-assistant)
 - ['Alexa, are you invading my privacy?' – the dark side of our voice assistants](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
+- [Talk: A contemporary Delphic Oracle, Marloes de Valk](https://vimeo.com/188797826)
+- [23andMe's Pharma Deals Have Been the Plan All Along](https://www.wired.com/story/23andme-glaxosmithkline-pharma-deal/)
 
 
 
